@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/340.4374ebd5.chunk.js","mappings":"+KAEe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAACC,EAAAA,GAAM,GAChB,C","sources":["views/Friend/index.tsx"],"sourcesContent":["import { Outlet } from \"react-router-dom\";\r\n\r\nexport default function Friend() {\r\n  return <Outlet />;\r\n}\r\n"],"names":["Friend","_jsx","Outlet"],"sourceRoot":""}

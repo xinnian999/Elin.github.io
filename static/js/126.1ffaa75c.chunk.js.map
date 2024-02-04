@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/126.1ffaa75c.chunk.js","mappings":"yIAIA,UAFiB,WAAH,OAASA,EAAAA,EAAAA,KAACC,EAAAA,GAAK,CAACC,MAAM,OAAS,C","sources":["views/404.tsx"],"sourcesContent":["import { Plate } from \"@/components\";\r\n\r\nconst NotFound = () => <Plate title=\"404\" />;\r\n\r\nexport default NotFound;\r\n"],"names":["_jsx","Plate","title"],"sourceRoot":""}
